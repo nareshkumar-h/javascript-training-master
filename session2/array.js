@@ -26,3 +26,4 @@ numArray.unshift(0);
 // It returns the selected elements in an array, as a new array object
 numArray.slice(1,3);
 
+numArray.join(". ");
