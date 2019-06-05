@@ -3,3 +3,5 @@
 https://www.ibm.com/developerworks/library/wa-jsanddom-pr/sidefile1.html
 
 https://www.teaching-materials.org/javascript/exercises/dom.html
+
+http://www.asmarterwaytolearn.com/js/index-of-exercises.html
