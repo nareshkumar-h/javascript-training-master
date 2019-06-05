@@ -1,5 +1,9 @@
 ## Create DOM Manipulation Exercise
 
+1. Shopping List Example
+* https://github.com/mdn/learning-area/blob/master/javascript/apis/document-manipulation/shopping-list-finished.html
+
+
 https://www.ibm.com/developerworks/library/wa-jsanddom-pr/sidefile1.html
 
 https://www.teaching-materials.org/javascript/exercises/dom.html
