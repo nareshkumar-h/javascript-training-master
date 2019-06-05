@@ -1,1 +1,3 @@
+## Create DOM Manipulation Exercise
+
 https://www.ibm.com/developerworks/library/wa-jsanddom-pr/sidefile1.html
