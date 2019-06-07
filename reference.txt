@@ -10,3 +10,7 @@ https://www.teaching-materials.org/javascript/exercises/dom.html
 
 # Exercises:
 http://www.asmarterwaytolearn.com/js/index-of-exercises.html
+
+
+* Create a separate session on ES6
+* freecodecamp.org => JavaScript ES6,ES7,ES8: Learn to code
